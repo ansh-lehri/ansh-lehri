@@ -14,4 +14,4 @@ Platform engineer (4 yrs) at Amagi, previously Groww. I run Kubernetes/AWS infra
 
 **Stack:** Go · Python · Kubernetes · EKS · Karpenter · Terraform · ArgoCD · AWS · GCP · PostgreSQL · Redis
 
- [LinkedIn] (https://www.linkedin.com/in/ansh-lehri)
+ [LinkedIn](https://www.linkedin.com/in/ansh-lehri)
